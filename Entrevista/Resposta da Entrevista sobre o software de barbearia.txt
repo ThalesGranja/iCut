@@ -1,0 +1,67 @@
+1- o que levou você a contratar alguém para fazer um aplicativo para sua barbearia? (captar principal motivo de aquisição)
+- praticidade cliente e barbeiro, salvar tempo para marcar horário 
+- cliente tem uma resposta imediata
+- ambiente mais organizado para trabalho
+- não tinha quantidade exata clientes para contratar o sistema 
+- o sistema que eles usam é por assinatura mensal 
+
+2- o que você consideraria de mais importante nesse aplicativo? Facilidade de agendamento, agilidade de software, outra coisa?
+- praticidade de agendamento do cliente
+- organização dos barbeiros em relação aos horários
+- precisão de agendamento (hora e dia), não precisa ficar mandando todos os horários disponíveis para o cliente por mensagem
+
+3- você considera o cadastro do cliente importante ou ele poderia agendar um horário sem estar "logado" em sua conta?
+- acha que é importante o cadastro 
+- facilidade de contato com cliente 
+- coleta de dados para saber quais são seus clientes e quais os status deles 
+- fica armazenado no histórico o serviço que ele pediu anteriormente.
+- caso o cliente esqueça de marcar e esteja cadastrado no aplicativo, o barbeiro consegue fazer isso de forma manual (não tem uma faixa etária específica, a pessoa só não usa muito o celular e prefere que o barbeiro marque, o cliente guarda na cabeça)
+
+4- caso você tenha funcionários na sua barbearia, você gostaria que o software contasse as horas trabalhadas por ele?
+- não compensa contratar por clt, mas pj é mais tranquilo. Clt pode deixar de atender cliente por trabalhar apenas 8h e descansar 2h
+- Caso a equipe for grande, ele gostaria que tivesse o sistema de banco de dados para fazer um equilíbrio de agenda para o barbeiro que está com menos horas para trabalho no dia 
+
+5- você gostaria que o sistema retornasse dados dos seus clientes? (mais ativos, menos ativos, situação de cliente?)
+- acha que seria importante o sistema fazer essas análises
+- acha melhor para ter o controle dos clientes (saber a situação da barbearia e do status do cliente)
+
+
+6- você gostaria que o sistema tivesse uma funcionalidade de mandar mensagens automáticas programáveis do jeito que quiser? (Exemplo: mandar mensagem para a pessoa no começo do dia para relembrar ela de seu horário marcado)
+- Gostaria que mandasse uma mensagem para o cliente, de forma automática, com a concordância do cliente. Na hora de marcar, o serviço, ter uma caixa de marcação perguntando se o cliente gostaria de receber uma mensagem para relembrar ele no dia do corte. Não soaria como desespero para atender, e sim uma preocupação com o cliente 
+- Disparar uma mensagem para clientes que estão em análise seria interessante 
+- mudança de status o barbeiro conseguiria apenas modificar para inativo, apenas o cliente marcando novamente que o status dele se tornaria ativo novamente e depois de 3 meses sem marcar cairia em análise 
+
+7- O uso do aplicativo ser intuitivo é algo crucial, certo?
+- Sim
+
+8- qual faixa etária que vocês mais atendem?
+- Jovens e adultos dominam (jovem: 12-23 adulto: 24-55)
+
+9- qual seria a idade mínima ideal para que uma pessoa criasse um cadastro no aplicativo?
+- idade mínima 14, salvo as exceções que pode liberar antes 
+
+10- você gostaria de vender objetos dentro do app? exemplo: pente, creme de barbear, gel, etc..
+- Seria interessante ter um catálogo de produtos e quando a pessoa clicasse em cima do produto abriria uma tela descrição  e “como usar” além do preço e etc 
+
+11- você acha importante um sistema de feedback dentro do app?
+- acha que seria interessante o sistema de estrelas de avaliação e uma caixa de texto para o cliente fazer observações 
+- o cliente pode escolher fazer uma avaliação anônima, para não ficar constrangido futuramente 
+
+12- (explicar um pouco do diferencial do software - analise de clientes em relação a frequência)
+- acho que foi uma boa ideia e gostaria da implementação 
+
+13- você gostaria que o cliente tivesse mais funcionalidades além de: agendar horário, alterar horário, cancelar horário, efetuar pagamento?
+- conseguiu pensar só no básico, não precisa de muitas outras funcionalidades além disso
+
+14- o que você pensa em relação ao pagamento dentro do app? prefere receber presencialmente o pagamento ou poderia ser pelo app através de pix?
+- acha interessante ter um sistema de pagamento dentro do app 
+
+15- você considera que tendo um aplicativo você atrai mais clientes?
+- considera que sim por conta da facilidade e praticidade, maioria dos clientes preferem marcar por aplicativo 
+
+16- qual é o perfil dos seus clientes? são moradores locais, viajantes, etc?
+- 95% moradores locais e 5% viajantes
+- ter um status para cliente “viajante” para não cair no ativo, inativo ou em análise 
+
+17- você gostaria de ter um app próprio?
+- sim, daria mais profissionalismo para a barbearia, não seria só mais uma entre outras barbearias onde não são aplicativos exclusivos
